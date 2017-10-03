@@ -32,6 +32,6 @@ To complete this project you will need the following:
 6. After you complete and save the first instruction, refresh your browser to see your new console.log
 
 ## Resources
-Variables - https://www.w3schools.com/js/js_variables.asp
+Variables - https://www.w3schools.com/js/js_variables.asp <br>
 Data Types - https://www.w3schools.com/js/js_datatypes.asp
 
