@@ -24,12 +24,12 @@ To complete this project you will need the following:
 4. Open about-me folder in your **Sublime Text Editor** by selecting **File** then **Open Folder**
 5. Create `index.html` file and link to `aboutme.js`
 6. Create sanity check
-  - Type **console.log('hello world')** in `aboutme.js`
-  - Go to `index.html` and right click **open in browser**
-  - When the Chrome browser opens, right click then click **inspect**
-  - Click on the **console** tab, `"Hello World"` should show up
-5. You will be following instructions and writing your code in the `aboutme.js` file
-6. After you complete and save the first instruction, refresh your browser to see your new console.log
+    - Type **console.log('hello world')** in `aboutme.js`
+    - Go to `index.html` and right click **open in browser**
+    - When the Chrome browser opens, right click then click **inspect**
+    - Click on the **console** tab, `"Hello World"` should show up
+7. You will be following instructions and writing your code in the `aboutme.js` file
+8. After you complete and save the first instruction, refresh your browser to see your new console.log
 
 ## Resources
 Variables - https://www.w3schools.com/js/js_variables.asp <br>
