@@ -5,8 +5,8 @@
 // console.log each variable
 // follow example below (remove "//" to uncomment)
 
-// var school = "Kapolei Middle School";
-// console.log(school); <== this should print "Kapolei Middle School" in your browser
+// var school = "Hawaii Tech Academy";
+// console.log(school); <== this should print "Hawaii Tech Academy" in your browser
 
 
 // # 1
@@ -86,6 +86,6 @@
 // #6
 // Variables with an Array value
 // Declare a variable named `backpack and assign it an array containing 5 items in your backpack.
-// Declare a variable named plateLunch and assign it an array containing 5 of your favorite lunch items.
+// Declare a variable named `plateLunch` and assign it an array containing 5 of your favorite lunch items.
 // Declare a variable named `donutBox` and assign it an array containing 5 donuts of your choosing.
 // Declare a variable named `pizzaToppings` and assign it an array containing 5 pizza toppings of your choosing.
