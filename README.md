@@ -20,8 +20,8 @@ To complete this project you will need the following:
 2. **Clone** this repository from your personal Github account:
     - Copy HTTP address on the page.
     - In your **webdev** folder on your **desktop**, run the command `git clone [insert the github http url address copied from github]` in order to clone that repository into your folder.
-3. Navigate into the about-me folder by using the command `cd my-pokedex`
-4. Open about-me folder in your **Sublime Text Editor** by selecting **File** then **Open Folder**
+3. Navigate into the about-me folder by using the command `cd aboutme`
+4. Open about-me folder in your **Visual Studio Code** by selecting **File** then **Open Folder**
 5. Create `index.html` file and link to `aboutme.js`
 6. Create sanity check
     - Type **console.log('hello world')** in `aboutme.js`
