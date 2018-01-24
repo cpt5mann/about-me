@@ -1,27 +1,26 @@
 // Create sanity check below
 
 
-
 // console.log each variable
 // follow example below (remove "//" to uncomment)
 
-// var school = "Hawaii Tech Academy";
-// console.log(school); <== this should print "Hawaii Tech Academy" in your browser
+ var school = "Hawaii Tech Academy";
+ console.log(school); 
 
 
 // # 1
 // Variables with a "String" value
 // Declare the following variables name:
-// firstName
-// lastName
-// birthPlace
-// favFood
-// favDrink
-// favSong
-// favAnimal
-// favColor
-// favSport
-// favDoughnut
+var firstName="Carter";
+var lastName="Halfmann";
+var birthPlace="Hawaii";
+var favFood="Burritos";
+var favDrink= "chocolate milk";
+var favSong="I see fire - Peter Hollens' Version";
+var favAnimal="Platypus";
+var favColor="blue";
+var favSport="Basketball";
+var favDoughnut="Chocolate cream";
 
 
 
@@ -32,12 +31,12 @@
 // #2
 // Variables with a Number value
 // Declare the following variable names:
-// favNumber
-// yourShoeSize
-// numberOfPets
-// numberOfSiblings
-// numberOfStudentsInClass
-// numberOfDoorsInClassroom
+var favNumber=64;
+var yourShoeSize=12;
+var numberOfPets=1;
+var numberOfSiblings=2;
+var numberOfStudentsInClass=12;
+var numberOfDoorsInClassroom=1;
 
 
 
@@ -47,36 +46,27 @@
 // #3
 // Variables with a Boolean value
 // Declare the following variable names:
-// likesMcDonalds
-// eatsDoughnuts
-// ownsRedShoes
-// hasAPet
-// playThePiano
-// playSports
-
-
-
-
-
+var likesMcDonalds=true;
+var eatsDoughnuts=true;
+var ownsRedShoes=false;
+var hasAPet=true;
+var playThePiano=false;
+var playSports=true;
 
 // #4
 // Variables with a Null value
 // Declare the following variable names:
-// completedMiddleSchool
-// traveledToMars
-// ateDinner
-
-
-
-
+var completedMiddleSchool=null;
+var traveledToMars= null;
+var ateDinner=null;
 
 
 // #5
 // Variables with an undefined value
 // Declare the following variable names:
-// superBowlChamps
-// lastDayOfSchool
-// nextFieldTrip
+var superBowlChamps=undefined;
+var lastDayOfSchool=undefined;
+var nextFieldTrip= undefined;
 
 
 
