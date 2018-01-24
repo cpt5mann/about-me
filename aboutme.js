@@ -1,6 +1,6 @@
 // Create sanity check below
 
-
+console.log("hello world");
 // console.log each variable
 // follow example below (remove "//" to uncomment)
 
@@ -75,7 +75,7 @@ var nextFieldTrip= undefined;
 
 // #6
 // Variables with an Array value
-// Declare a variable named `backpack and assign it an array containing 5 items in your backpack.
-// Declare a variable named `plateLunch` and assign it an array containing 5 of your favorite lunch items.
-// Declare a variable named `donutBox` and assign it an array containing 5 donuts of your choosing.
-// Declare a variable named `pizzaToppings` and assign it an array containing 5 pizza toppings of your choosing.
+var backpack =["Lunch", "pencil", "pen", "id", "paper"];
+var platelunch=["Chicken Katsu", "Kalua pig and cabbage", "Mac Salad", "Spam Musubi", "Rice" ];
+var donutbox=["Chocolate Cream", "Boston Cream", "Powdered sugar", "glazed", "jelly"];
+var pizzaToppings=["Sausage","Pepperoni","Xtra Cheese","Bacon", "idk"];
